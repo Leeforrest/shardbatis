@@ -12,12 +12,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shardbatis.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/AbstractSqlConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/AbstractSqlConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/SelectSqlConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/SelectSqlConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/SqlConverterFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/SqlConverterFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/UpdateSqlConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/google/code/shardbatis/converter/UpdateSqlConverter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -907,6 +901,14 @@
       <option name="presentableId" value="Default" />
       <updated>1513500417539</updated>
     </task>
+    <task id="LOCAL-00001" summary="update mybatis and jsqlparser version">
+      <created>1517588392655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517588392655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -948,6 +950,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update mybatis and jsqlparser version" />
+    <option name="LAST_COMMIT_MESSAGE" value="update mybatis and jsqlparser version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
