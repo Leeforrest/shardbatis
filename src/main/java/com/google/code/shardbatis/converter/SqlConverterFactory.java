@@ -41,7 +41,7 @@ public class SqlConverterFactory {
 	private CCJSqlParserManager pm;
 
 	private SqlConverterFactory() {
-		converterMap = new HashMap<String, SqlConverter>();
+		converterMap = new HashMap<>();
 		pm = new CCJSqlParserManager();
 		register();
 	}
