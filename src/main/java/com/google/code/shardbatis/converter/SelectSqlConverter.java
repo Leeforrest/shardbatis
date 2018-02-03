@@ -40,6 +40,7 @@ public class SelectSqlConverter extends AbstractSqlConverter {
 		TableNameModifier(Object params, String mapperId) {
 			this.params = params;
 			this.mapperId = mapperId;
+			init();
 		}
 
         @Override
